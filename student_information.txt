@@ -1,0 +1,9 @@
+STUDENT INFORMATION SYSTEM
+VERSION 1: PERSONAL DETAILS
+Student Name : Arun K S
+Register Number : 2341514
+Date of Birth : 13-12-2005
+Gender : Male
+Email : arunsats.005@gmail.com
+Mobile Number : 9686742770
+Address : Bengaluru, Karnataka
