@@ -14,3 +14,11 @@ Father's Mobile : 9008034751
 Mother's Name : K Bhuvana
 Mother's Occupation : Teacher
 Mother's Mobile : 9731591275
+
+Course : BCA
+Department : Computer Science
+College : CHRIST University
+Academic Year : 2026-2027
+Semester : 8
+Previous CGPA : 6.5
+Admission Year : 2023
