@@ -7,3 +7,10 @@ Gender : Male
 Email : arunsats.005@gmail.com
 Mobile Number : 9686742770
 Address : Bengaluru, Karnataka
+
+Father's Name : Sathish K R
+Father's Occupation : Employee
+Father's Mobile : 9008034751
+Mother's Name : K Bhuvana
+Mother's Occupation : Teacher
+Mother's Mobile : 9731591275
